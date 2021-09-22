@@ -1,6 +1,4 @@
-x = input("Type a number: ")
-y = input("Type another number: ")
-
-sum = int(x) + int(y)
-
-print("The sum is: ", sum)
+print("Hello World")
+print("Hello World! We are able to build jenkins")
+a=12
+print("Value of a:",a)
